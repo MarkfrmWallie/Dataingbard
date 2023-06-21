@@ -1,0 +1,40 @@
+.x10-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-right: 18px;
+  margin-top: 20px;
+  min-height: 101px;
+  width: 226px;
+}
+
+.overlap-group8-1 {
+  align-items: flex-start;
+  background-color: var(--wisp-pink);
+  border-radius: 18px;
+  display: flex;
+  height: 78px;
+  min-width: 222px;
+  padding: 9px 18px;
+}
+
+.he-was-awesome-can {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 56px;
+  width: 182px;
+}
+
+.text-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 12px;
+  white-space: nowrap;
+}
+
+.x10-1.x10-2 {
+  margin-top: 21px;
+}
+

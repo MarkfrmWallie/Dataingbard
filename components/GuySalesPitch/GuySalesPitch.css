@@ -1,0 +1,157 @@
+.guy-sales-pitch {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 896px;
+  overflow: hidden;
+  padding: 40px 0;
+  width: 414px;
+}
+
+.overlap-group-container-4 {
+  align-self: flex-start;
+  height: 495px;
+  margin-left: -3px;
+  margin-top: 20px;
+  position: relative;
+  width: 443px;
+}
+
+.overlap-group3-8 {
+  height: 230px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.img_2884-1 {
+  height: 230px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 357px;
+}
+
+.rectangle-107 {
+  background-color: #151f2b;
+  height: 65px;
+  left: 222px;
+  position: absolute;
+  top: 18px;
+  width: 161px;
+}
+
+.overlap-group4-7 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  height: 274px;
+  justify-content: flex-end;
+  left: 3px;
+  min-width: 347px;
+  padding: 10.0px 18px;
+  position: absolute;
+  top: 221px;
+}
+
+.rectangle-111 {
+  background-color: var(--white);
+  height: 39px;
+  width: 122px;
+}
+
+.hes-doing-very-well {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  margin-left: 2.0px;
+  margin-top: 16px;
+  min-height: 120px;
+  text-align: center;
+  width: 278px;
+}
+
+.button-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-top: 42px;
+  min-height: 123px;
+  width: 344px;
+}
+
+.overlap-group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  min-width: 344px;
+}
+
+.overlap-group1-21 {
+  align-items: flex-start;
+  background-color: var(--brink-pink);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 165px;
+  padding: 15px 48px;
+}
+
+.hard-no-3 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 68px;
+  text-align: center;
+}
+
+.overlap-group2-13 {
+  align-items: flex-start;
+  background-color: var(--mountain-meadow);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 165px;
+  padding: 15px 40px;
+}
+
+.set-me-up-3 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 85px;
+  text-align: center;
+}
+
+.group-1903 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 346px;
+}
+
+.overlap-group-27 {
+  align-items: flex-start;
+  background-color: var(--blumine-2);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 344px;
+  padding: 15px 126px;
+}
+
+.aaaand-3 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 76px;
+  text-align: center;
+}
+

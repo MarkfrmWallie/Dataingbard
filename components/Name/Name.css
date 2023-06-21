@@ -1,0 +1,42 @@
+.name-2 {
+  align-items: center;
+  display: flex;
+  gap: 7px;
+  height: 36px;
+  left: 0;
+  min-width: 197px;
+  position: absolute;
+  top: 0;
+}
+
+.samantha-18 {
+  letter-spacing: 0.50px;
+  line-height: normal;
+  min-height: 36px;
+  min-width: 172px;
+}
+
+.icon_verified {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  height: 16px;
+  justify-content: flex-end;
+  min-width: 16px;
+  padding: 5.3px 4.3px;
+}
+
+.check {
+  height: 5px;
+  width: 6px;
+}
+
+.name-2.name-4 {
+  gap: 72px;
+}
+
+.name-2.name-4 .samantha-18 {
+  min-width: 107px;
+}
+

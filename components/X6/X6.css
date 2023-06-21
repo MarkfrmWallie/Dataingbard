@@ -1,0 +1,78 @@
+.x6 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 4.0px;
+  margin-top: 27px;
+  min-width: 336px;
+}
+
+.overlap-group-4 {
+  align-items: center;
+  background-color: var(--zircon-2);
+  border-radius: 78px;
+  display: flex;
+  gap: 97px;
+  height: 64px;
+  justify-content: flex-end;
+  min-width: 334px;
+  padding: 0 12px;
+}
+
+.type-your-messages {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 3.0px;
+  min-height: 21px;
+  min-width: 161px;
+}
+
+.button_send {
+  align-items: flex-end;
+  background-color: var(--blue-jeans);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 40px;
+  padding: 11px;
+}
+
+.icon_send {
+  height: 17px;
+  width: 17px;
+}
+
+.x6.x6-1 {
+  margin-left: 2.0px;
+  margin-right: unset;
+  margin-top: 66px;
+}
+
+.x6.x6-2 {
+  margin-top: 36px;
+}
+
+.x6.x6-3 {
+  margin-left: 2.0px;
+  margin-right: unset;
+  margin-top: 19px;
+}
+
+.x6.x6-4 {
+  margin-left: 4.0px;
+  margin-right: unset;
+  margin-top: 114px;
+}
+
+.x6.x6-5 {
+  margin-left: 2.0px;
+  margin-right: unset;
+  margin-top: 13px;
+}
+
+.x6.x6-6 {
+  margin-left: 6.0px;
+  margin-right: unset;
+  margin-top: 170px;
+}
+

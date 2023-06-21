@@ -1,0 +1,50 @@
+.x4-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 156px;
+  min-height: 93px;
+  position: absolute;
+  top: 311px;
+  width: 201px;
+}
+
+.overlap-group1-20 {
+  align-items: flex-start;
+  background-color: var(--wisp-pink);
+  border-radius: 18px;
+  display: flex;
+  height: 67px;
+  min-width: 197px;
+  padding: 11px 15px;
+}
+
+.wow-he-is-cute-okay-ill-bite {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 44px;
+  width: 167px;
+}
+
+.text-15 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 46px;
+}
+
+.x4-6.x4-7 {
+  left: unset;
+  margin-top: 47px;
+  position: unset;
+  top: unset;
+}
+
+.x4-6.x7-2 {
+  left: unset;
+  margin-top: 26px;
+  position: unset;
+  top: unset;
+}
+

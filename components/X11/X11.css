@@ -1,0 +1,64 @@
+.x11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 2px;
+  min-height: 92px;
+  position: absolute;
+  top: 651px;
+  width: 188px;
+}
+
+.overlap-group9 {
+  background-color: var(--tulip-tree);
+  border-radius: 18px;
+  height: 67px;
+  position: relative;
+  width: 184px;
+}
+
+.name {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 148px;
+}
+
+.group-1896 {
+  align-items: flex-end;
+  background-color: var(--tree-poppy);
+  border-radius: 20px;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  left: 118px;
+  min-width: 60px;
+  padding: 11.4px 10.6px;
+  position: absolute;
+  top: 3px;
+}
+
+.profile-picture-5 {
+  background-image: url(/static/img/opengraph@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  width: 38px;
+}
+
+.text-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  min-height: 19px;
+  width: 53px;
+}
+
+.x11.x11-1 {
+  left: 169px;
+  top: 602px;
+}
+

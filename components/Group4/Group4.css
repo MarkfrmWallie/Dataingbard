@@ -1,0 +1,78 @@
+.group-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-right: 44.0px;
+  margin-top: 20px;
+  min-height: 164px;
+  width: 290px;
+}
+
+.overlap-group-container {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  gap: 59px;
+  height: 138px;
+  margin-right: 2px;
+  min-width: 288px;
+}
+
+.overlap-group1-1 {
+  align-items: center;
+  background-image: url(/static/img/rectangle-106@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 72px;
+  height: 74px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 7px 3px;
+  position: relative;
+}
+
+.profile-picture-1 {
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 25px;
+}
+
+.overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--blue-jeans);
+  border-radius: 73px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-bottom: 8px;
+  min-width: 72px;
+  padding: 10px 21px;
+}
+
+.view {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  min-width: 29px;
+}
+
+.text-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2px;
+  min-height: 18px;
+  min-width: 34px;
+  text-align: right;
+}
+
+.group-4.group-3 {
+  left: 1px;
+  margin-right: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 412px;
+}
+
